@@ -1,0 +1,12 @@
+{
+  "name": "rmmz-d-ts",
+  "packageManager": "yarn@3.2.0-rc.6",
+  "version": "1.0.0",
+  "license": "UNLICENSE",
+  "scripts": {
+    "start": "node splitter.js"
+  },
+  "dependencies": {
+    "mkdirp": "^1.0.4"
+  }
+}
